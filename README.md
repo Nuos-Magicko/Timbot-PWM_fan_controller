@@ -9,7 +9,7 @@
     ```
 * Add A New Cron Job:
     ```
-    sudo crontab -e
+    crontab -e
     ```
 
     Scroll to the bottom and add the following line (after all the #'s):
